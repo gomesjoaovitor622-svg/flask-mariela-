@@ -1,0 +1,6 @@
+pfFlask/
+pflask/
+.vscode/
+__pycache__/
+*.pyc
+.env
